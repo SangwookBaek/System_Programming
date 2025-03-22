@@ -1,0 +1,199 @@
+ls
+cd ..
+history
+ls
+history
+history
+lsdf
+ldsf|sdfs
+lsdf|sdfs|sdf
+make clean
+sdf sdf | adfadf| asdf
+sdfsdf | sdfsdf|sdf
+sdlaf asf asdf
+adf|asdf|adsf
+adf | asdf |adsf saf
+asdf
+asdf adsf adf
+dfs sdf | dsf
+sdf sdf sdf|sdf
+sdf
+asdf
+asdf | adf
+sd sdf  sdf
+asdf|asdf|adsf
+adsf | af| asdf
+dslf|sdf
+sdf|sdf
+sdf sdf sf|sdf
+lsl
+slsvl
+sdf|sdf
+lml
+sdf|sdf
+ls|ls
+"sdf|sdf"
+"sdf|sdf"
+"sdaf|asdf"
+"asdf"|asdf
+'sdaf|sdf'
+"asdf"
+"sdf"|sdf
+"sdaf|sdf"
+"sdf"
+'sdfsfa'
+jlk|sdf
+"'asdf"
+"sadf"
+asdf|asdf
+"asdfsaf|"asdf
+asdf|adsf
+asdf|asdf
+"asdf|adsf"
+"sadf"|asdf
+asdf|asdf
+sdafasf|asdfasf
+asdf |asdf
+asdf|asdf
+asdf
+asdf|asdfvsdv|asdf
+asdf
+asdf
+asdf
+adsfasf|adfa
+ls|ls|ls
+ls|ls|ls
+ls|ls|ls
+ls
+ls
+hisotry
+history
+asdf|asdf
+asdf|asdf
+ls|ls
+ls|ls
+ls
+ls|sdf
+ls|sdf
+ls ls | ls ls
+ls ls | ls ls
+ls|ls
+ls|ls
+ls|ls
+ls|ls
+ls|ls
+ls|ls
+ls|ls
+ls|ls
+history|ls
+history|ls
+ls|ls
+ls|ls
+history|ls
+history|ls
+cd .. | ls
+cd .. | ls
+l
+ls
+cd phase2|ls
+cd phase2|ls
+history
+ls
+ls
+ls
+history
+history
+history
+ls
+ls
+cd!!
+ls|grep history.txt
+ls|grep history.txt
+ls | grep asdf
+ls | grep asdf
+cat history.txt |less
+cat history.txt |less
+OAOAOBOBBOBOBOBOBOAOAOAOAOAOAOAOAOAOAOAOAOBOBOBOBOBOBOBOBOBOBOB
+qw
+ls
+vi example.txt
+cat example.txt |grep -i "abc" | sort -r
+cat example.txt |grep -i "abc" | sort -r
+cat example.txt |grep -i "abc" | sort -r
+ls|grep history.txt
+ls|grep history.txt
+cd.. | grep phase
+cd.. | grep phase
+ls
+cd ..
+ls
+ls | grep phase
+ls | grep phase
+history | grep ls
+history | grep ls
+history|ls
+history|ls
+ls
+ls|grep history.txt
+ls|grep history.txt
+ls
+ls|example
+ls|example
+ls|example
+ls|example
+ls|exaple
+ls|exaple
+history
+ls|exaple
+ls|exaple
+ls
+ls|example
+ls|example
+ls|example
+ls|example
+ls|example
+ls|example
+ls|example
+ls|example
+ls|example
+ls|example
+ls | grep example
+ls | grep example
+history | grep history
+history | grep history
+ps
+ls|example
+ls|example
+history|example
+history|example
+ls|history
+ls|history
+ls|example
+ls|example
+ls|history
+ls|history
+exi
+exiot
+ls|grep
+ls|grep
+ls | example
+ls | example
+ls|exmaple
+ls|exmaple
+history
+ls | example
+ls | example
+sdf
+ls | example
+ls | example
+dsf
+ls
+history
+history | ls
+history | ls
+history | ls
+history | ls
+ls | grep history
+ls | grep history
+history | ls
+history | ls
